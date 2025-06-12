@@ -2,7 +2,7 @@
 
 A clean, modern, and secure full-stack web application for shortening URLs. Built with **Node.js**, **Express**, **MongoDB** on the backend and **vanilla HTML, CSS, and JavaScript** on the frontend. Includes comprehensive URL validation and a responsive design.
 
-![URL Shortener Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=URL+Shortener+App)
+![URL Shortener Screenshot](https://github.com/NikhithaPatibandla/UrlShortener/blob/main/Url-Shortener-app.png)
 
 ---
 
